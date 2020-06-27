@@ -83,7 +83,7 @@ This folder contains the typography settings for the site. The kit assumes that 
 Thero nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. At nulla pariatur. Excepteur sint occaecat is nostrud exercitation ullamco laboris nisi ut aliquip ex ea
 
 **mixins** <br>
-Ercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat is nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in repre
+The files in this folder are not used in the initial setup for the kit. However you can incorperate them as needed. You may find some of these mixins useful when developing a static site.
 
 **pages** <br>
 Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non pro
