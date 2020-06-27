@@ -1,17 +1,42 @@
-@import "reboot/reboot_mini";
-@import "fonts/typography";
-@import "pages/landing/index";
+@import "reboot/reboot";
+@import "typography/base";
+ 
 
-html{
-    height: 100%;
+html {
+  height: 100%;
 }
-body{
-  
-  display:flex;
+
+body {
+  color: $text-color;
+  font-size: $base-font-size;
+  font-family: $product;
+  font-weight: $base-font-weight;
+  line-height: 1.125;
+  display: flex;
   height: 100vh;
   justify-content: center;
-  align-items:center;
- 
+  align-items: center;
 }
-
  
+
+.page-header {
+  padding: calc(2rem + 3vh) 0;
+  text-align: center;
+  color: #7f7f7f;
+  width: max-content;
+  height: max-content;
+
+  img {
+    max-width: 250px;
+  }
+
+  h1 {
+    font-size: 4rem;
+    line-height: 0;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  p {
+    font-size: 1.125rem;
+  }
+}
