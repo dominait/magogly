@@ -1,8 +1,8 @@
 # Static Web Site Starter Kit
 
-This repo contains a simple starting kit that will help you to develop static web sites. You can view the contents of this [repo hosted on netlify](https://starterkit-scss.netlify.com/).
+This repo contains a simple starting kit that will help you to develop static web sites. You can view the kit landing page [on netlify](https://starter-kit-scss.netlify.com/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/55ba53f0-e914-459e-ad50-9aaea57e1043/deploy-status)](https://app.netlify.com/sites/simplewebkit/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f0d163a-638c-4fd8-b47d-a6adfb35d23f/deploy-status)](https://app.netlify.com/sites/starter-kit-scss/deploys)
 
 <br>
 <br>
