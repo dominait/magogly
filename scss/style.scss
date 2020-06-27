@@ -1,0 +1,17 @@
+@import "reboot/reboot_mini";
+@import "fonts/typography";
+@import "pages/landing/index";
+
+html{
+    height: 100%;
+}
+body{
+  
+  display:flex;
+  height: 100vh;
+  justify-content: center;
+  align-items:center;
+ 
+}
+
+ 

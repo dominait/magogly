@@ -1,0 +1,17 @@
+.site-nav {
+    padding: 1rem;
+   
+   
+     box-shadow: 0 0 5px 0 rgb(211, 211, 211);
+    color: #a9a9a9;
+    position: relative;
+
+    .list-view {
+        display: none;
+    }
+
+    .icon-view {
+        display: flex;
+        justify-content: space-between;
+    }
+}
